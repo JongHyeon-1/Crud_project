@@ -69,7 +69,7 @@
             	</tr>
             	<tr>
             	    <td colspan="2">
-            	        <!-- 목록으로 버튼을 누르면 post_list.jsp로 연결됨 -->
+            	     
             	        <button type=button onclick="location.href='post_list.jsp'">목록으로</button>
             	    </td>
             	</tr>
